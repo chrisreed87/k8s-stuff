@@ -46,3 +46,4 @@ alias ktx="kubectx"
 - [dnsutils test](https://kubernetes.io/docs/tasks/administer-cluster/dns-debugging-resolution/)
 - [rancher overlay test](https://rancher.com/docs/rancher/v2.x/en/troubleshooting/networking/#check-if-overlay-network-is-functioning-correctly)
 - [service internal loadbalancer](https://kubernetes.io/docs/concepts/services-networking/service/#internal-load-balancer) - turn a service into a basic NLB
+- [Kube Pug](https://github.com/rikatz/kubepug) - check what you're going to break before upgrading K8s versions
